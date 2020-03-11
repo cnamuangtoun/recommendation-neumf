@@ -1,1 +1,68 @@
-0±ND£M0¶+â·*kzšèqë,§%¡z{h®éÀuÖâªò½ç-¢¶§uú+™ø§j[Z‚÷œ¶Šß¢·šr¬z³©¶*'±Ø«©¡ûayØ«yËh¯'(Ö¢)àŠznµÖ­h7Ÿjému«ZŠzn¶Ë›v*çjg¨~Ø^²æİŠ·œ¶Šòr‰íj)â§¦ë]jÖƒyö®–ÚÚÂ‹­¦ël¹·b®v¦z‡í…ë.mØ«yËh¯'è®‹­¦ë]jÖƒyö®–Úkzšèqë,y×Zµëb™çZµëb™ëhmæuçm¢)éºßèºÚnµø¥zv¦x7Ÿjém6‰Ş"zn´X¥zÇb¯ø§¦ël¹·b¯ùÚ™ë-j+kZµëb™ç,½Ø«ş)éºÛ.mØ«ı§-Šø­‰ë-j+kZµëb™ç,½Ø«ş)éºÛ.mØ«şË›ç-²Ö ²¶°u«^¶)rËİŠ¿â›­²æİŠ¿î±êâµé«kZµëb™ç,¼ë­¦ëEŠW¬v*ÿ¢ëiºÛ.mØ«şv¦zËZ‚Êkzšèqë,y×Zµëb™ç,½Ø«ş‹­¦ël¹·b¯öœ¶+â¶'¬µ¨,¦·©®‡²Çu«^¶)rËİŠ¿èºÚn¶Ë›v*ÿ²æãyËlµ¨,¦·©®‡²Çu«^¶)rËİŠ¿èºÚn¶Ë›v*ÿºÇ«Š×¦¦·©®‡²Çu«^¶)rËÑyÊ&™éİN„è¤¥,zºrZ§¶Šîœ×°Ëb¾+r¶‰è¶'ò¶ŠJºÇ«°êmŠ‰ìv*çjg¨~Ø^v*ŞrÚ+ÉÊ'µ¨§Šx"›­u«ZçÚº[]jÖ¢›­²æİŠ¹Ú™ê¶¬¹·b­ç-¢¼œ¢{ZŠx§‚)éº×Zµ Ş}«¥¶šŞ¦ºzËv‹­¦ël¹·b®v¦z‡í…ë.mØ«yËh¯'è®‹­¦ë]jÖƒyö®–ÚkyØœ¶*'u«^¶)u«^¶)¶†Şi×^vÚ"›­ş‹­¦ë_ŠW§jgƒyö®–Óhëh¤¦¦¢éí¡û¬z»-¢·œ¢i×¥êâµéƒyö®–İtĞ‰éºÑb•ëŠ¿èºÚn¶Ë›v*ÿ©²Ö ²šŞ¦ºzËuÖ­zØ¦yË/v*ÿ¢ëiºÛ.mØ«ı§-Šø­‰ë-j)­êk¡Ç¬±ç]j×­Šgœ²ó®¶›­)^±Ø«ş‹­¦ël¹·b¯ô^r‰¦zwm¢’®±êİj×­Šgœ²ô^r‰¦zwS¡:)(‹^šœ–…éí¢»§Eç(šg§vÚ))§-Šø­‰ë-¢w°ºÇ«Â+a•ë,¶§Ş)íz¶œ¶*'°êmŠ‰ìv*çjg¨~Ø^v*ŞrÚ+ÉÊ'µ¨§Šx"›­u«ZçÚº[]jÖ¢›­²æİŠ¹Ú™ê¶¬¹·b­ç-¢¼œ¢{ZŠx§‚)éº×Zµ Ş}«¥¶šŞ¦ºzËv‹­¦ël¹·b®v¦z‡í…ë.mØ«yËh¯'è®‹­¦ë]jÖƒyö®–ÚkyØœ¶*'u«^¶)u«^¶)¶†Şi×^vÚ"›­ş‹­¦ë_ŠW§jgƒyö®–Óhëh¤¦¦¢éí¡ø­zk-¢·œ¢i×¥êî±êÃyö®–İt"zn´X¥zÇb¯ø§¦ël¹·b¯ùÚ™ë-j)­êk¡Ç¬±ç]j×­Šgœ²÷b¯ø§¦ël¹·b¯öœ¶+â¶'¬µ¨,¦·©®‡²Çu«^¶)rËÎºÚn´X¥zÇb¯ú.¶›­²æİŠ¿ÑyÊ&™éİ¶ŠJŠ×¦u«^¶)rËÍzã§%¡z{h®éÖ…éÚ–[¬z»"ë®+^š¯zj+zØZŠŞªæ¥¶â×«iËb¢{0ŠØZ§-Šø­ÈêmŠ‰ìv*çjg¨~Ø^v*ŞrÚ+ÉÊ'µ¨§Šx"›­u«ZçÚº[]jÖ¢›­²æİŠ¹Ú™ê¶¬¹·b­ç-¢¼œ¢{ZŠx§‚)éº×Zµ Ş}«¥¶šŞ¦ºzËv‹­¦ël¹·b®v¦z‡í…ë.mØ«yËh¯'è®‹­¦ë]jÖƒyö®–ÚkyØœ¶*'u«^¶)u«^¶)¶†Şi×^vÚ"›­ş‹­¦ë_ŠW§jgƒyö®–Óhëh¤¦¦¢éí¡ø­zk-¢·œ¢i×¥êî±êÃyö®–İtzš†Éî™·«¡÷©¡Èl¶‹kj)í…é¨uéCyö®–İtÑ¶­r"ÍæÚµÈl‹7®±çm¡÷vÚ&¡×¥çÚº[vç¢'¦ë]Š¿â›­²æİŠ¿çjg¬µ¨,¦·©®‡²Çu«^¶)rËİŠ¿â›­²æİŠ¿ÚrØ¯ŠØ²Ö ²šŞ¦ºzËuÖ­zØ¦yË/v*ÿŠzn¶Ë›v*ÿ²æãyËlµ¨,¦·©®‡²Çu«^¶)rËİŠ¿â›­²æİŠ¿î±êâµé©­êk¡Ç¬±ç]j×­Šgœ²ó®¶›­v*ÿ¢ëiºÛ.mØ«üÊz[h¤¤^r‰¦zwZ¶*'u«^¶)rË
+preprocess.py
+	When to run: 
+		Add binary vector and form final tag vector for each user
+	Options:
+		--dir: name of the directory containing input data (Default: â€˜dataâ€™)
+		--input_subdir: name of the subdirectory containing input data (Default: â€˜rawâ€™)
+		--output_subdir: name of the subdirectory for output data (Default: â€˜preprocessedâ€™)
+		--datetime: datetime to be added to input/output file name (Default: None)	
+	Input Files:
+		dir/input_subdir/names_tags_raw_datetime.csv
+		dir/input_subdir/activities_tags_raw_datetime.csv
+		dir/input_subdir/subjects_tags_raw_datetime.csv
+		dir/input_subdir/ user_item_raw_datetime.csv
+	Output Files:
+		dir/output_subdir/names_tags_preprocessed_datetime.csv
+		dir/output_subdir/activities_tags_preprocessed_datetime.csv
+		dir/output_subdir/subjects_tags_preprocessed_datetime.csv
+		dir/output_subdir/ user_item_preprocessed_datetime.csv
+
+RecommendToTopKUser.py
+	When to run:
+		New Activity to notify topK users
+	Options:
+		--dir: name of the directory containing input data (Default: â€˜dataâ€™)
+		--input_subdir: name of the subdirectory containing input data (Default: â€˜preprocessedâ€™)
+		--output_subdir: name of the subdirectory for output data (Default: â€˜predictionâ€™)
+		--datetime: datetime to be added to input/output file name (Default: None)
+		--topK: amount of users to recommended per item(Default: 100)
+	Input Files:
+		dir/output_subdir/names_tags_preprocessed_datetime.csv
+		dir/output_subdir/activities_tags_preprocessed_datetime.csv
+	Output Files:
+		dir/output_subdir/Recommend_topK_user_datetime.csv
+
+RecommendToTopKItem.py
+	When to run:
+		Recommend topK activities to new user with less than 3 interactions
+	Options:
+		--dir: name of the directory containing input data (Default: â€˜dataâ€™)
+		--input_subdir: name of the subdirectory containing input data (Default: â€˜preprocessedâ€™)
+		--output_subdir: name of the subdirectory for output data (Default: â€˜predictionâ€™)
+		--datetime: datetime to be added to input/output file name (Default: None)
+		--topK: amount of items to recommended per user (Default: 10)
+	Input Files:
+		dir/input_subdir/names_tags_preprocessed_datetime.csv
+		dir/input_subdir/activities_tags_preprocessed_datetime.csv
+	Output Files:
+		dir/output_subdir/Recommend_topK_item_datetime.csv
+
+NeuMF.py
+	When to run:
+		When all users in user_item have more than or equal to 3 interactions with an activity
+	Options:
+		--dir: name of the directory containing input data (Default: â€˜dataâ€™)
+		--input_subdir: name of the subdirectory containing input data (Default: â€˜preprocessedâ€™)
+		--output_subdir: name of the subdirectory for output data (Default: â€˜predictionâ€™)
+		--datetime: datetime to be added to input/output file name (Default: None)
+		--topK: amount of items to recommended per user (Default: 10)
+		--epochs: number of epochs to train the model (Default: 100)
+		--batch_size: batch size used to feed to model (Default:256)
+	Input:
+		dir/input_subdir/names_tags_preprocessed_datetime.csv
+		dir/input_subdir/activities_tags_preprocessed_datetime.csv
+		dir/input_subdir/subjects_tags_preprocessed_datetime.csv
+		dir/input_subdir/user_item_preprocessed_datetime.csv
+	Output:
+		dir/output_subdir/Model_topK_Recommendation_datetime.csv
+
