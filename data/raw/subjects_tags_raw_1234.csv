@@ -1,0 +1,287 @@
+,subjectID,subject_name,tags
+0,CHE100,Introduction to Chemical Engineering,"['Chemistry', 'Engineering Foundation']"
+1,CHM103,Fundamental Chemistry,['Chemistry']
+2,CHM160,Chemistry Laboratory,"['Chemistry', 'Laboratory']"
+3,LNG101,General English,"['Language', 'Communication']"
+4,MTH101,Mathematics I,['Mathematics']
+5,PHY103,General Physics for Engineering Students I,"['Physics', 'Engineering Foundation']"
+6,PHY191,General Physics Laboratory I,"['Physics', 'Laboratory']"
+7,GEN111,Man and Ethics of Living,"['Ethics', 'Philosophy']"
+8,CHE210,Industrial Organic Chemistry,"['Chemistry', 'Biology']"
+9,CHE231,"Fundamentals of Momentum, Heat and Mass Transfer","['Physics', 'Mechanical']"
+10,CHE241,Thermodynamics I,"['Physics', 'Mechanical']"
+11,LNG103,English for Workplace Communication,"['Language', 'Communication']"
+12,GEN231,Miracle of Thinking,"['Philosophy', 'Communication']"
+13,MTH201,Mathematics III,['Mathematics']
+14,CHE334,Heat Transfer and Equipment Design,"['Physics', 'Design', 'Materials']"
+15,CHE343,Chemical Kinetics and Reactor Design,"['Chemistry', 'Engineering Foundation', 'Design']"
+16,CHE471,Engineering Materials and Selection,"['Materials', 'Engineering Foundation']"
+17,PRE372,Probability and Statistics for Engineers,"['Statistics', 'Engineering Foundation', 'Mathematics']"
+18,GEN351,Modern Management and Leadership,"['Communication', 'Management', 'Leadership']"
+19,MTH303,Numerical Methods,['Mathematics']
+20,CHE472,Chemical Plant Safety,"['Chemistry', 'Safety']"
+21,CHE482,Chemical Engineering Laboratory II,"['Chemistry', 'Laboratory']"
+22,CHE483,Undergraduate Seminar,['Engineering Foundation']
+23,CHE484,Chemical Engineering Project I,"['Chemistry', 'Project']"
+24,PRE290,Industrial Organization and Management,"['Management', 'Industrial']"
+25,CHE452,Chemical Engineering Plant Design,"['Chemistry', 'Design']"
+26,CHE454,Chemical Engineering Design Project,"['Chemistry', 'Design', 'Project']"
+27,CHE485,Chemical Engineering Project II,"['Chemistry', 'Project']"
+28,GEN101,Physical Education,['Sports']
+29,MEE101,Materials Science and Engineering,['Materials']
+30,MEE111,Engineering Drawing,"['Design', 'Engineering Foundation']"
+31,PRE141,Manufacturing Process,['Industrial']
+32,EEE102,Electrotechnology I Power,['Electrical']
+33,GEN121,Learning and Problem Solving Skills,['Management']
+34,MEE211,Engineering Mechanics I,"['Mechanical', 'Engineering Foundation', 'Physics']"
+35,MEE221,Thermodynamics,['Physics']
+36,MEE216,Computer Aided Drawing,"['Computer', 'Design']"
+37,MEE313,Machine Design,"['Design', 'Mechanical']"
+38,MEE321,Heat Transfer,['Physics']
+39,MEE331,Automatic Control Engineering,['Control']
+40,MEE361,Mechanical Engineering Laboratory I,"['Mechanical', 'Laboratory']"
+41,MEE363,Mechanical Engineering Professional Practice,"['Mechanical', 'Leadership']"
+42,MEE461,Capstone Design Project I,"['Design', 'Project']"
+43,MEE462,Capstone Design Project II,"['Design', 'Project']"
+44,STA302,Statistics for Engineers,"['Statistics', 'Engineering Foundation']"
+45,EEE190,Electrical Practice,['Electrical']
+46,EEE260,Electrical Instruments and Measurements,"['Electrical', 'Materials']"
+47,EEE270,Electronics Engineering,"['Electrical', 'Electronics']"
+48,EEE321,Electrical Machines II,"['Electrical', 'Mechanical']"
+49,EEE330,"Power Generation, Transmission and Distribution Systems","['Systems', 'Electrical']"
+50,EEE372,Power Electronics,['Electronics']
+51,EEE380,Control Systems,"['Control', 'Systems']"
+52,EEE393,Electrical Engineering Laboratory II,"['Electrical', 'Laboratory']"
+53,EEE397,Seminar and Electrical Engineering Mini Project I,"['Electrical', 'Project']"
+54,MEE214,Engineering Mechanics,"['Mechanical', 'Engineering Foundation']"
+55,EEE440,Power System Protection,['Systems']
+56,EEE495,Electrical Engineering Laboratory IV,"['Electrical', 'Laboratory']"
+57,EEE498,Electrical Engineering Project Study,"['Electrical', 'Project']"
+58,EEE496,Electrical Engineering Laboratory V,"['Electrical', 'Laboratory']"
+59,EEE499,Electrical Engineering Project,"['Electrical', 'Project']"
+60,MEN111,Engineering Materials,['Materials']
+61,CVE221,Surveying,['Surveying']
+62,CVE223,Surveying Practices,['Surveying']
+63,CVE232,Engineering Mechanics II,['Mechanical']
+64,CVE112,Civil Engineering Workshop,['Civil Engineering']
+65,CVE100,Computer Programming for Civil Engineering,"['Computer ', 'Programming']"
+66,CVE362,Soil Mechanics,"['Mechanics', 'Biology']"
+67,CVE363,Soil Mechanics Laboratory,"['Mechanics', 'Biology']"
+68,CVE385,Hydrology,"['Civil Engineering', 'Laboratory']"
+69,CVE336,Materials Testing Laboratory,"['Materials', 'Laboratory']"
+70,CVE338,Structural Analysis II,"['Civil Engineering', 'Analysis']"
+71,GEN241,Beauty of Life,['Philosophy']
+72,CVE401,Civil Engineering Capstone Project Proposal,"['Civil Engineering', 'Project']"
+73,CVE414,Construction Estimating and Specifications,"['Civil Engineering', 'Mathematics', 'Statistics']"
+74,CVE415,Civil Engineering Construction Management,"['Civil Engineering', 'Management']"
+75,CVE402,Civil Engineering Capstone Project ,"['Civil Engineering', 'Project']"
+76,CPE100,Computer Programming for Engineers,"['Computer', 'Engineering Foundation', 'Programming']"
+77,CPE101,Engineering Exploration,['Engineering Foundation']
+78,CPE121,Discrete Mathematics for Computer Engineers,"['Mathematics', 'Computer']"
+79,CPE212,Algorithm Design,"['Computer', 'Programming']"
+80,CPE223,Digital Electronics and Logic Design,"['Electronics', 'Computer']"
+81,CPE315,Signals and Linear Systems,"['Electrical', 'Systems']"
+82,CPE326,Operating Systems,"['Computer', 'Programming']"
+83,CPE327,Software Engineering,"['Computer', 'Programming']"
+84,CPE332,Professional Issues in Computer Engineering,"['Leadership', 'Computer']"
+85,PRE380,Engineering Economics,"['Economics', 'Engineering Foundation']"
+86,CPE401,Computer Engineering Project I,"['Computer', 'Project']"
+87,CPE402,Computer Engineering Project II,"['Computer', 'Project']"
+88,LNG102,English Skills and Strategies,"['Language', 'Communication']"
+89,ENV210,Fundametal in Environmental Engineering,['Environemntal']
+90,ENV213,Surveying for Environmental Engineering,"['Surveting', 'Environmental']"
+91,EEE100,Electrotechnology Power,"['Electrical', 'Physics']"
+92,CVE394,Hydraulic Laboratory,"['Civil Engineering', 'Physics', 'Environmental']"
+93,ENV341,Unit Operation in Environmental Engineering,['Environemntal']
+94,ENV344,Biological Unit Processes in Environmental Engineering,"['Biology', 'Environmental']"
+95,ENV345,Environmental Engineering Laboratory,"['Environemntal', 'Laboratory']"
+96,ENV371,Solid Waste Management,"['Management', 'Environmental']"
+97,ENV401,Environmental Engineering Project Proposal,"['Environemntal', 'Project']"
+98,ENV434,Environmental Impact Assessment and Management,"['Environemntal', 'Management']"
+99,ENV442,Water Supply Engineering,['Environemntal']
+100,ENV445,Wastewater Engineering and Design,"['Environemntal', 'Design']"
+101,ENV482,Noise and Vibration Control,['Physics']
+102,ENV402,Environmental Engineering Project,"['Environemntal', 'Project']"
+103,ENE105,Computer Programming for Electrical Communication and Electronic Engineering,"['Computer', 'Programming', 'Electronics', 'Electrical']"
+104,ENE205,Electronics Engineering Practice,['Electronics']
+105,ENE210,Electronic Devices and Circuit Design I,"['Electronics', 'Design']"
+106,ENE325,Electromagnetic Fields and Waves,"['Electrical', 'Physics']"
+107,ENE301,Probability and Statistics for Engineeers,"['Statistics', 'Engineering Foundation']"
+108,ENE312,Electronic Engineering Laboratory,"['Electronics', 'Laboratory']"
+109,ENE334,Microprocessor,"['Computer', 'Electrical']"
+110,ENE370,Electronics and Telelcommunication Seminar,"['Electronics', 'Telecommunication']"
+111,ENE422,Data Communications,"['Electronics', 'Telecommunication']"
+112,ENE450,Applied Communication Systems and Transmission Lines,"['Electronics', 'Telecommunication']"
+113,ENE467,Digital Communications,"['Electronics', 'Telecommunication']"
+114,ENE477,Electrical Communication and Electronic Engineering Project I,"['Electronics', 'Telecommunication', 'Project']"
+115,ENE478,Electrical Communication and Electronic Engineering Project II,"['Electronics', 'Telecommunication', 'Project']"
+116,MIC101,General Biology,['Biology']
+117,MIC191,General Biology Laboratory,"['Biology', 'Engineering Foundation', 'Laboratory']"
+118,MTH111,Calculus I,['Mathematics']
+119,PHY101,General Physics for Science Students I,"['Physics', 'Engineering Foundation']"
+120,CSS112,Computer Programming,"['Computer', 'Programming']"
+121,MTH225,Principle of Mathematics,['Mathematics']
+122,MTH242,Calculus III,['Mathematics']
+123,STA111,Statistics,"['Statistics', 'Mathematics']"
+124,MTH330,Abstract Algebra I,['Mathematics']
+125,MTH341,Introduction to Real Analysis I,['Mathematics']
+126,MTH343,Functions of Complex Variables I,['Mathematics']
+127,MTH356,Partial Differential Equations,['Mathematics']
+128,MTH498,Mathematics Project Proposal,"['Mathematics', 'Project']"
+129,MTH499,Mathematics Project Study,"['Mathematics', 'Project']"
+130,MTH495,Industrial Cooperative Learning,['Industrial']
+131,CHM101,General Chemistry,"['Chemistry', 'Engineering Foundation']"
+132,CHM161,General Chemistry Laboratory,"['Chemistry', 'Engineering Foundation', 'Laboratory']"
+133,CHM212,Organic Chemistry II,"['Chemistry', 'Biology']"
+134,CHM262,Organic Chemistry Laboratory II,"['Chemistry', 'Biology', 'Laboratory']"
+135,CHM221,Analytical Chemistry I,['Chemistry']
+136,CHM263,Analytical Chemistry Laboratory I,"['Chemistry', 'Laboratory']"
+137,MTH252,Differential Equations,['Mathematics']
+138,CHM332,Inorganic Chemistry II,['Chemistry']
+139,CHM362,Inorganic Chemistry Laboratory I,"['Chemistry', 'Laboratory']"
+140,CHM321,Instrumental Methods of Chemical Analysis I,"['Mathematics', 'Chemistry']"
+141,CHM363,Instrumental Methods of Chemical Analysis Laboratory I,"['Mathematics', 'Chemistry']"
+142,CHM342,Physical Chemistry II,['Chemistry']
+143,CHM365,Physical Chemistry Laboratory I,['Chemistry']
+144,CHM496,Chemistry Project I,"['Chemistry', 'Project']"
+145,CHM497,Chemistry Project II,"['Chemistry', 'Project']"
+146,PHY100,Conceptual Physics,['Physics']
+147,PHY203,General Physics for Science Students II,"['Physics', 'Engineering Foundation']"
+148,PHY290,Modern and Advanced Physics Laboratory,"['Physics', 'Laboratory']"
+149,PHY205,Mathematical Physics I,"['Mathematics', 'Physics']"
+150,STA212,Statistics for Scientists,"['Statistics', 'Engineering Foundation']"
+151,PHY301,Analytical Mechanics,"['Mechanical', 'Mathematics']"
+152,PHY302,Electricity and Magnetism,['Electrical']
+153,PHY305,Vacuum Technology,['Physics']
+154,PHY395,Computer Programming for Computational Physics and Interface Laboratory,"['Computer', 'Programming', 'Physics']"
+155,PHY340,Applied Optics,['Mechanical']
+156,PHY350,Introduction to Solid State Physics,"['Computer', 'Physics']"
+157,PHY391,Nuclear and Optics Laboratory,"['Physics', 'Chemistry']"
+158,PHY496,Physics Project I,"['Physics', 'Project']"
+159,PHY498,Physics Seminar,['Physics']
+160,PHY497,Physics Project II,"['Physics', 'Project']"
+161,PHY495,General English ,['Language']
+162,CSS114,Elementary Computer Programming,"['Computer', 'Programming']"
+163,STA231,Probability and Statistics,"['Statistics', 'Mathematics']"
+164,STA321,Statistical Theory,['Statistics']
+165,STA322,Sampling Techniques,['Statistics']
+166,STA331,Regression Analysis ,"['Statistics', 'Mathematics']"
+167,STA336,Statistical Packages,['Statistics']
+168,STA333,Multivariate Analysis,"['Statistics', 'Mathematics']"
+169,STA334,Research Methodology,['Engineering Foundation']
+170,STA392,Statistics Seminar,['Statistics']
+171,STA491,Statistics Project Proposal,"['Statistics', 'Project']"
+172,STA421,Design of Experiments,"['Design', 'Laboratory']"
+173,STA463,Business Management,"['Management', 'Business']"
+174,STA492,Statistics Project Study,"['Statistics', 'Project']"
+175,CHM214,Organic Chemistry,"['Chemistry', 'Biology']"
+176,CHM261,Organic Chemistry Laboratory,"['Chemistry', 'Biology', 'Laboratory']"
+177,MIC211,Bacteriology,['Biology']
+178,MIC291,Determinative Bacteriology Laboratory,"['Biology', 'Laboratory']"
+179,MIC212,Yeasts and Molds,['Biology']
+180,MIC292,Yeasts and Molds Laboratory,"['Biology', 'Laboratory']"
+181,MIC321,Basic Bioprocess Engineering,['Biology']
+182,MIC391,Basic Bioprocess Engineering Laboratory,"['Biology', 'Laboratory']"
+183,MIC332,Biochemistry II,"['Biology', 'Chemistry']"
+184,MIC392,Biochemistry Laboratory II,"['Biology', 'Chemistry', 'Laboratory']"
+185,MIC341,Virology,['Biology']
+186,MIC324,Biosafety,"['Biology', 'Safety']"
+187,MIC497,Microbiology Seminar,['Biology']
+188,MIC498,Independent Study I,['Biology']
+189,MIC499,Independent Study II,['Biology']
+190,PPT101,Basic Printing and Packaging Technology,"['Packaging', 'Printing']"
+191,PPT111,Lay-out Design,"['Packaging', 'Design']"
+192,CHM215,Organic Chemistry Part II,"['Chemistry', 'Biology']"
+193,CHM266,Organic Chemistry Laboratory ,"['Chemistry', 'Biology', 'Laboratory']"
+194,PPT212,Package Design,['Packaging']
+195,PPT221,Glass and Metal for Printing and Packaging,"['Packaging', 'Printing']"
+196,PPT231,Pre-press Process,"['Packaging', 'Printing']"
+197,PPT331,Post-press Process,"['Packaging', 'Printing']"
+198,PPT361,Statistics and Quality Control,"['Statistics', 'Control']"
+199,PPT371,Design Research,['Design']
+200,PPT362,Print Production Management,"['Printing', 'Management']"
+201,PPT363,Law and Regulations for Printing and Packaging,"['Printing', 'Packaging', 'Management']"
+202,PPT491,Co-operative Education Practice,['Communication']
+203,PPT492,Packaging Technology Project Study,"['Packaging', 'Project']"
+204,PPT481,Packaging Technology Seminar,['Packaging']
+205,PPT493,Packaging Technology Project,"['Packaging', 'Project']"
+206,IDT101,Basic Technology Practice,['Information Technology']
+207,IDT102,Safety and Health in Establishment,['Safety']
+208,IDT201,Information Technology and Computer,"['Information Technology', 'Computer']"
+209,IDT202,Industrial Management,"['Industrial', 'Management']"
+210,IDT203,Probability and Statistics for Industry,"['Statistics', 'Industrial']"
+211,IDT301,Personnel Development and Training for Technology,['Leadership']
+212,IDT471,Industrial Technology Project Study,"['Industrial', 'Project']"
+213,IDT472,Industrial Technology Project,"['Industrial', 'Project']"
+214,IDT391,Industrial Technology Seminar and Guidance,['Industrial']
+215,IDT495,Work Integrated Learning I,['Career']
+216,IDT496,Work Integrated Learning II,['Career']
+217,CSC100,Learning How to Learn,['Communication']
+218,CSC101,Computing Inventions and Innovations,['Computer']
+219,CSC102,Introduction to Programming,['Programming']
+220,CSC165,Discrete Mathematics,['Mathematics']
+221,LNG105,Academic English for International Students,['Language']
+222,CSC210,Analysis and Design of Algorithms,"['Programming', 'Design']"
+223,CSC213,Systems Analysis and Design,"['Programming', 'Design']"
+224,CSC218,Database Systems,"['Programming', 'Computer']"
+225,CSC220,Computer Networks,"['Computer', 'Programming']"
+226,CSC290,Computer Science Integrated Project I,"['Computer', 'Programming', 'Project']"
+227,GEN352,Technology and Innovation for Sustainable Development,['Management']
+228,CSC340,Artificial Intelligence,"['Programming', 'Mathematics']"
+229,CSC319,Advanced Java,['Programming']
+230,CSC371,Introduction to Distributed Systems and Parallel Computing,"['Programming', 'Computer']"
+231,CSC498,Computer Science Capstone Project I,"['Computer', 'Programming', 'Project']"
+232,MTH102,Mathematics II,['Mathematics']
+233,CSC325,Computer Security,"['Computer', 'Safety']"
+234,CSC499,Computer Science Capstone Project II,"['Computer', 'Programming', 'Project']"
+235,CSC301,Global Employability for Computer Scientists,"['Computer', 'Career', 'Programming']"
+236,CSC302,Seminar on Domains of Computer Science Applications,"['Computer', 'Programming']"
+237,CSC490,Capstone Project Writing,['Project']
+238,INT100,Information Technology Fundamentals,['Information Technology']
+239,INT101,Programming Fundamentals,['Programming']
+240,INT102,Web Technology,['Information Technology']
+241,INT114,Discrete Mathematics for Information Technology,"['Mathematics', 'Information Technology']"
+242,INT201,Web-based Client Side Programming I,['Information Technology']
+243,INT202,Web-based Server Side Programming I,['Information Technology']
+244,INT205,Database Management System,"['Programming', 'Systems']"
+245,INT207,Network I,['Information Technology']
+246,INT214,Statistics for Information Technology,"['Information Technology', 'Statistics']"
+247,LNG202,Basic Reading for Science and Technology,"['Information Technology', 'Communication']"
+248,INT222,Integrated Information Technology Project II,"['Information Technology', 'Project']"
+249,INT305,Semi-structured and Unstructured Data Management,['Programming']
+250,INT307,Security I,"['Information Technology', 'Safety']"
+251,INT314,Applied Mathematics for Data Science,['Mathematics']
+252,LNG320,Content-based Language Learning,['Language']
+253,INT366,Capstone Information Technology Project II,"['Information Technology', 'Project']"
+254,LNG224,Oral Communication,"['Language', 'Communication']"
+255,INT322,Information Technology Seminar II,['Information Technology']
+256,LNG304,Meetings and Discussions,['Communication']
+257,ARC115,Design Sketch,"['Design', 'Architecture']"
+258,ARC117,Design Fundamentals I,['Design']
+259,ARC123,History of Art and Design,"['Art', 'Design']"
+260,ARC226,History of Architecture and Interior Architecture II,"['Architecture', 'Interior Design']"
+261,ARC241,Architectural Design I,"['Architecture', 'Design']"
+262,ARC261,Building Materials and Construction Technology I,"['Materials', 'Construction']"
+263,ARC271,Structural Design I,"['Design', 'Construction']"
+264,ARC343,Architectural Design III,"['Architecture', 'Design']"
+265,ARC354,Site Planning and Landscape Architecture,['Architecture']
+266,ARC363,Building Materials and Construction Technology III,"['Materials', 'Construction']"
+267,ARC373,Structural Design III,"['Constructions', 'Design']"
+268,ARC382,Environmental Technology II: Architectural Lighting and Acoustics,"['Environemntal', 'Architecture']"
+269,ARC445,Architectural Design V,['Architecture']
+270,ARC494,Architecture Professional Practice,['Architecture']
+271,ARC446,Architectural Design VI,"['Architecture', 'Design']"
+272,ARC493,Architecture Construction Management,"['Architecture', 'Construction']"
+273,LNG107,Academic Reading and Writing,"['Language', 'Communication']"
+274,INA241,Interior Architectural Design I,"['Interior Design', 'Design']"
+275,INA211,"Color, Materials and Presentation","['Interior Design', 'Design']"
+276,INA312,Spatial Perception and Psychology,"['Interior Design', 'Design']"
+277,INA333,Interior Architectural Project Programming and Space Planning,"['Interior Design', 'Design', 'Project', 'Programming']"
+278,INA343,Interior Architectural Design III,"['Interior Design', 'Design']"
+279,INA353,Interior Architectural Sketch Design I,"['Interior Design', 'Design']"
+280,INA373,Interior Architectural Construction and Detailing,"['Interior Design', 'Construction']"
+281,INA445,Interior Architectural Design V,['Interior Design']
+282,INA435,Research Methods for Interior Architecture,['Interior Design']
+283,INA496,Professional Practice and Code of Conduct for Interior Architecture,"['Leadership', 'Management', 'Interior Architecture']"
+284,INA446,Interior Architectural Design VI,"['Interior Design', 'Design']"
+285,INA457,Furniture Design and Workshop,"['Interior Design', 'Design']"
